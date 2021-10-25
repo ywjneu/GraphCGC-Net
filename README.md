@@ -2,6 +2,7 @@
  The implementation of GraphCGC-Netin our paper:(The paper is under rewever.)
 # You need to install:
  Python 3.6+
+ 
  pytorch 
 # Overview:
 The architecture of the model is shown in: 
