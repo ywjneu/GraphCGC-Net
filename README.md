@@ -14,6 +14,5 @@ To train MGC model, you need to prepare a configuration file (folder config) whe
 
 To train the GraphGAN++ model, use the command :  python train.py
 
-On a Titan X 12GB, for the model FC-DenseNet103 (see folder config), compilation takes around 400 sec and 1 epoch 120 sec for training and 40 sec for validation.
 # Data:
 ADIBE: http://fcon_1000.projects.nitrc.org/indi/abide/abide_I.html
